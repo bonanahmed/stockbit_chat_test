@@ -1,0 +1,24 @@
+[
+  {
+    "infoType": "message",
+    "roomId": "personal1",
+    "roomName": "personal1",
+    "roomType": "personal",
+    "sender": "ahmed",
+    "messageType": "text",
+    "message": "Tes",
+    "messageDate": "2022-02-28T00:39:19.878237",
+    "member": ["bonan", "ahmed"]
+  },
+  {
+    "infoType": "message",
+    "roomId": "group1",
+    "roomName": "Group",
+    "roomType": "group",
+    "sender": "ahmed",
+    "messageType": "text",
+    "message": "Tes",
+    "messageDate": "2022-02-28T00:39:19.878237",
+    "member": ["bonan", "ahmed", "adnan"]
+  }
+]
